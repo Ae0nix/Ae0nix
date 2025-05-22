@@ -1,12 +1,13 @@
-# 👋 Ciao, sono [IlTuoUsername]!
+### 👨‍💻 About Me:
 
-## 🧭 Esperienze
+---
 
-- Ho partecipato all’**Apple Developer Academy Foundation Program**, dove ho lavorato in team su progetti iOS, imparando basi di sviluppo e design.
-- Ho preso parte alla **CyberChallenge.IT 2025**, con focus su sicurezza applicativa, reverse engineering e analisi di rete.
+🎓 BSc Computer Engineering @ Unina  
+🍏 Apple Foundation Program  
+🛡️ CyberChallenge.IT 2025 Student
 
 ## 🛠️ Competenze
-
+---
 **Linguaggi di programmazione**  
 C · Python · Java · HTML
 
@@ -18,8 +19,7 @@ Git · Linux · SQL · progettazione e gestione di database
 
 ## 📫 Contatti
 
-- Email: [tuamail@example.com]
-
+- Email: [gianmarcolasalvia@gmail.com]
 ---
 <!--
 **Ae0nix/Ae0nix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
