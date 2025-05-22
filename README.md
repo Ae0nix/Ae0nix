@@ -15,7 +15,7 @@ C · Python · Java · HTML
 Ghidra · gdb · Wireshark · Burp Suite · Cutter · analisi di rete · exploit base
 
 **Altre tecnologie**  
-Git · Linux · SQL · progettazione e gestione di database - 🐳 Docker & Docker Compose
+Git · Linux · SQL · progettazione e gestione di database - Docker & Docker Compose
 
 ## 📫 Contatti
 
