@@ -7,7 +7,7 @@
 🛡️ CyberChallenge.IT 2025 Student
 
 ## 🛠️ Competenze
----
+
 **Linguaggi di programmazione**  
 C · Python · Java · HTML
 
@@ -20,7 +20,6 @@ Git · Linux · SQL · progettazione e gestione di database
 ## 📫 Contatti
 
 - Email: [gianmarcolasalvia@gmail.com]
----
 <!--
 **Ae0nix/Ae0nix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
