@@ -9,7 +9,7 @@
 ## 🛠️ Competenze
 
 **Linguaggi di programmazione**  
-C · Python · Java · HTML
+C · Python · Java
 
 **Cybersecurity / CTF**  
 Ghidra · gdb · Wireshark · Burp Suite · Cutter · analisi di rete · exploit base
