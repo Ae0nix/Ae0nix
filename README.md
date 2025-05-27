@@ -11,7 +11,7 @@
 **Linguaggi di programmazione**  
 C · Python · Java
 
-**Cybersecurity / CTF**  
+**Cybersecurity**  
 Ghidra · gdb · Wireshark · Burp Suite · Cutter · analisi di rete · exploit base
 
 **Altre tecnologie**  
